@@ -6,7 +6,7 @@ This Code is done in multiple parts and each part has its own specific use.
 
 Files and their specific purposes
 
-# 1 - N Dimensional Forecast - 
+# 1 - N Dimensional Forecast
     Uses Regression Method for forecasting.
     Pricipal Component analysis is performed for removing collinearity
 
